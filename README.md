@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # confd-web 物联网云平台
 
 ```bash
@@ -41,3 +42,6 @@ npm run lint
 # code format check and auto fix
 npm run lint -- --fix
 ```
+=======
+# cityPro2
+>>>>>>> d7f6c3e6ae8e00a52a7a7465694633c8f6de2943
